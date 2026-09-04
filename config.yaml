@@ -451,7 +451,7 @@ matrix:
           - smn
           - smn_skip_v2
           - swrv2
-          - tms
+          - tms_swiss
           - volume_skip_v2
           - volume_no_backups
           - vpcep
@@ -496,7 +496,7 @@ matrix:
           - smn
           - smn_skip_v2
           - swrv2
-          - tms
+          - tms_swiss
           - volume_skip_v2
           - volume_no_backups
           - vpcep
